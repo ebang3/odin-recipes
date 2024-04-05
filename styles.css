@@ -1,0 +1,20 @@
+body {
+    font-family: 'Courier New', Georgia;
+    background-color: beige;
+}
+
+body .header {
+    text-decoration: underline;
+    color: rgb(100, 50, 0);
+}
+
+img {
+    border-style: solid;    
+}
+p,
+ul,
+ol {
+    color: gray;
+    font-weight: 500;
+}
+
